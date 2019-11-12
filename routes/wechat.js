@@ -5,7 +5,7 @@ const xml2js = require('xml2js')
 const router = express.Router();
 
 const config= require('./../config/index')
-require('./../api/index')
+// require('./../api/index')
 
 let msgId= ''
 
